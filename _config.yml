@@ -3,7 +3,7 @@ title: Marinated Thoughts
 url: https://anirudhshenoy.github.io/blog/
 paginate: 1
 paginate_path: "/blog/page:num/"
-baseurl: "/blog/"
+baseurl: "/blog"
 permalink: pretty
 
 # Gems
