@@ -3,7 +3,7 @@ title: Marinated Thoughts
 url: https://anirudhshenoy.github.io/dark-poole
 paginate: 1
 paginate_path: "/dark-poole/page:num/"
-baseurl: "/blog"
+baseurl: "/dark-poole/"
 permalink: pretty
 
 # Gems
