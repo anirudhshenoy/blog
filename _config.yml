@@ -1,9 +1,9 @@
 # Setup
 title: Marinated Thoughts
-url: https://anirudhshenoy.github.io/dark-poole
+url: https://anirudhshenoy.github.io/blog
 paginate: 1
-paginate_path: "/dark-poole/page:num/"
-baseurl: "/dark-poole/"
+paginate_path: "/blog/page:num/"
+baseurl: "/blog/"
 permalink: pretty
 
 # Gems
@@ -43,7 +43,7 @@ version: 3.0.0
 # Navbar page list
 nav:
   - title: Blog
-    url: /dark-poole/archive
+    url: /blog/archive
 
   - title: About
-    url: /dark-poole/about
+    url: /blog/about
