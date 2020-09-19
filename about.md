@@ -3,27 +3,8 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### Whats a *Marinated Thought*?
+An idea that has been garnished with some subconscious spices and left afar so that time does it’s job. Puns aside, I’ve learnt that some ideas just takes some time to go from a raw state to a fully formed concept. No amount of brainpower will help in that conversion, it just has to linger around in the subconscious space of our mind where it constantly gets processed and defragmented. You’ll notice that the next time you think about it perhaps some other neurons fire giving you a new perspective. 
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+This is more of a personal expierence and I’m not really sure why this happens - maybe something to do with spaced repetition? This blog is meant to be a collection of such thoughts. 
 
-There are currently two themes built on Poole:
-
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
